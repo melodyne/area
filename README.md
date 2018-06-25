@@ -31,3 +31,4 @@ addressInit('province', 'city', 'district', '安徽', '合肥市', '蜀山区');
 	addressInit('province', 'city', 'district', '广东', '深圳', '南山区');
 </script>
  ```
+![演示](https://github.com/melodyne/area/blob/master/eg.gif?raw=true)
