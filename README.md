@@ -16,8 +16,10 @@ addressInit('province', 'city', 'district', '安徽', '合肥市', '蜀山区');
 //安徽、合肥市、蜀山区  默认；可为空
 
 ### 4 html列子
- ``  <div class="row">
-         <select class=" province" name="province"></select>
-         <select class=" city" name="city"></select>
-         <select class=" district" name="district" ></select>
-  `` </div>
+ ```  
+ <div class="row">
+     <select class=" province" name="province"></select>
+     <select class=" city" name="city"></select>
+     <select class=" district" name="district" ></select>
+ </div>
+ ```
