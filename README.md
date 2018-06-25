@@ -12,7 +12,9 @@
 
 ### 3 执行
 addressInit('province', 'city', 'district', '安徽', '合肥市', '蜀山区');
+
 //province 省select下拉框的class ；city市class；district区县class
+
 //安徽、合肥市、蜀山区  默认；可为空
 
 ### 4 举个列子
@@ -22,6 +24,7 @@ addressInit('province', 'city', 'district', '安徽', '合肥市', '蜀山区');
      <select class=" city" name="city"></select>
      <select class=" district" name="district" ></select>
  </div>
+ 
  <script type="text/javascript">
     //province 省select下拉框的class ；city市class；district区县class
     //安徽、合肥市、蜀山区  默认；可为空
